@@ -19,6 +19,9 @@
 </p>
 
 A chatbot that talks with the user, understands their tastes and dietary constraints, and suggests plant-based recipes taken from [Spoonacular](https://spoonacular.com/food-api). The recipes are stored in a RAG, and the conversation is handled by Google Gemini.
+## Run with Netlify
+
+**🌱 [Try POF - Planty of food](https://pof-chatbot.netlify.app/)**
 
 ## Technologies
 
